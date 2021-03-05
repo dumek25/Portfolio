@@ -39,9 +39,9 @@ My name is Igor Zięcina. I am young aspiring and student of the last class of I
 
 ##Recommended blogs
 
-*remigiuszbednarczyk.pl
-*GeekON
-*cherry-it.pl
+* remigiuszbednarczyk.pl
+* GeekON
+* cherry-it.pl
 
 ## My Test Case Examples
  
