@@ -2,7 +2,7 @@
  
 ## About me
  
-My name is Igor Zięcina. I am young aspiring and student of the last class of IT technical school. My main goal is to develop testing knowledge and my techstack. Right here I would like to share my experience gained from personal studies and researches.
+My name is Igor Zięcina. I am young aspiring student of the last class of IT technical school. My main goal is to develop testing knowledge and my techstack. Right here I would like to share my experience gained from personal studies and researches.
  
 ## Tools 
  
@@ -32,12 +32,12 @@ My name is Igor Zięcina. I am young aspiring and student of the last class of I
 * Coders Lab Manual Tester
 * Frontend Master beginner path
  
-##Groups on Facebook
+## Groups on Facebook
 
 * Tester oprogramowania - wsparcie na starcie
 * Testowanie oprogramowania
 
-##Recommended blogs
+## Recommended blogs
 
 * remigiuszbednarczyk.pl
 * GeekON
