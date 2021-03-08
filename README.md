@@ -2,7 +2,7 @@
  
 ## About me
  
-My name is Igor Zięcina. I am young aspiring student finishing IT technical school in poland. My main goal is to develop testing experience and my techstack. On this page i will be sharing my knowlegde gained from personal studies and research
+My name is Igor Zięcina. I am young aspiring student finishing IT technical school in Poland. My main goal is to develop testing experience and my techstack. On this page I will be sharing my knowlegde gained from personal studies and research
  
 ## Tools 
  
